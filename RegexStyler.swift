@@ -1,9 +1,9 @@
 //
 //  RegexStyler.swift
-//  Tom
+//  
 //
 //  Created by Abdurrahman Şanlı on 15.06.2022.
-//  Copyright © 2022 Tom. All rights reserved.
+//  Copyright © 2022 Abdurrahman Şanlı. All rights reserved.
 //
 
 import UIKit
